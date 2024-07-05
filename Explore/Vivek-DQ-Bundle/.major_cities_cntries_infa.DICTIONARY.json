@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "3pvQFKxNLuDd47cZ86z4Mp",
+    "name" : "major_cities_cntries_infa",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3pvQFKxNLuDd47cZ86z4Mp"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Contains the list of major cities.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-07-05T20:17:15.689Z",
+  "objectRefs" : [ ]
+}

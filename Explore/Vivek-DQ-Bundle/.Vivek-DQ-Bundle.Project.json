@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "3rOLHMW6WwMh5JpWSvSlUU",
+    "name" : "Vivek-DQ-Bundle",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Vivek-DQ-Bundle-Test",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-07-05T20:17:15.689Z",
+  "objectRefs" : [ ]
+}
