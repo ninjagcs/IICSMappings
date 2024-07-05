@@ -1,0 +1,25 @@
+{
+  "objectInfo" : {
+    "id" : "dB2PqBNTymqjjheFZN63mC",
+    "name" : "date_month_infa",
+    "type" : "DICTIONARY",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "dB2PqBNTymqjjheFZN63mC"
+      },
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Contains the number of the month.",
+        "contentType" : "Binary",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-07-05T20:19:59.796Z",
+  "objectRefs" : [ ]
+}
